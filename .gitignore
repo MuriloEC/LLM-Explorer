@@ -1,0 +1,5 @@
+.env
+.Pipfile
+.Pipfile.lock
+check.py
+main.py
